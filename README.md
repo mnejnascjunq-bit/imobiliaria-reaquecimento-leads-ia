@@ -7,7 +7,6 @@ O sistema realiza a varredura, interpretação e abordagem ultra-humanizada via 
 ---
 
 ## 📊 Arquitetura Visual do Circuito no n8n
-*(Arraste a foto do print do seu n8n para a mesma pasta do GitHub e use o comando abaixo para exibi-la)*
 ![Circuito do Robô no n8n](print-n8n.png)
 
 ---
